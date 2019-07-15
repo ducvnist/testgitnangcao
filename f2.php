@@ -5,7 +5,7 @@
 
 <?php
 echo "<h2>PHP php php</h2>";
-echo "Hello gay <br>";
+echo "bye <br>";
 
 </body>
 </html>
